@@ -1,0 +1,12 @@
+{
+  "name": "tarea4",
+  "version": "1.0.0",
+  "description": "",
+  "main": "tarea4.js",
+  "scripts": {
+    "start":"node tarea4.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
